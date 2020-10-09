@@ -6,16 +6,16 @@ Projeto criado como parte do curso The Complete Node.js Developer Course (3rd Ed
 
 1.Node.js
 
-2.mongodb
+2.Mongodb
 
-3.mongoose
+3.Mongoose
 
-4.multer
+4.Multer
 
-5.sharp
+5.Sharp
 
-6.jest
+6.Sest
 
-7.bcryptjs
+7.Bcryptjs
 
-8.jsonwebtoken
+8.Jsonwebtoken
