@@ -2,7 +2,7 @@
 
 Projeto criado como parte do curso The Complete Node.js Developer Course (3rd Edition), da Udemy.
 
-### Tecnologis/Frameworks utilizados:
+### Tecnologias/Frameworks utilizados:
 
 1.Node.js
 
